@@ -1,0 +1,4 @@
+C:\Users\eiwoc\source\repos\kasa\kasa\obj\Debug\netcoreapp3.1\kasa.csprojAssemblyReference.cache
+C:\Users\eiwoc\source\repos\kasa\kasa\obj\Debug\netcoreapp3.1\kasa.AssemblyInfoInputs.cache
+C:\Users\eiwoc\source\repos\kasa\kasa\obj\Debug\netcoreapp3.1\kasa.AssemblyInfo.cs
+C:\Users\eiwoc\source\repos\kasa\kasa\obj\Debug\netcoreapp3.1\kasa.csproj.CoreCompileInputs.cache
